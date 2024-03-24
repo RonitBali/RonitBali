@@ -1,4 +1,16 @@
 ### Hi there 👋
+<h1 align="center">Hi 👋, I'm Ronit Bali</h1>
+<h3 align="center">A passionate Software developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ronitbali&label=Profile%20views&color=0e75b6&style=flat" alt="ronitbali" /> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ronitbali&show_icons=true&locale=en" alt="ronitbali" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ronitbali&" alt="ronitbali" /></p>
 
 <!--
 **RonitBali/RonitBali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
