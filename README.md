@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Ronit</h1>
 <h3 align="center"></h3>
 
@@ -11,8 +11,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
-   
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
     <img width="12" />
@@ -45,8 +44,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  </div>
-  
+  </div>   
+   
   
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ronitbali&show_icons=true&locale=en" alt="ronitbali" /></p>
