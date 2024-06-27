@@ -46,7 +46,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
   </div>   
    <br>
-   <br>
+ 
   
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ronitbali&show_icons=true&locale=en" alt="ronitbali" /></p>
