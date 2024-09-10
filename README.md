@@ -3,7 +3,7 @@
 <h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronitbali&label=Profile%20views&color=0e75b6&style=flat" alt="ronitbali" /> </p>
-<img src="https://media.tenor.com/UQESusJVIRwAAAAM/aizen-aizen-form.gif" alt="">
+<img src="https://i.pinimg.com/originals/29/5a/a6/295aa6023d31309d8f33fdfb6f2a32ba.gif" alt="">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
